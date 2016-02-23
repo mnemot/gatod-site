@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>404'd!</title>
+        <meta name="description" content="Indie game development, free games.">
+        <meta name="keywords" content="indie, gamedev, games, free, html5, windows, mac, linux, medic panic!, sacrifice, rescue, retro, 8bit, chile">
+        <meta name="author" content="mnemot">
+        <meta charset="UTF-8">
+        <script src="js/jquery-1.12.1.min.js"></script>
+        <link rel="icon" type="image/png" href="favicon.png">
+		<style>
+            @font-face {
+                font-family: PixelOperator;
+                src: url(PixelOperator.woff);
+            }
+            @font-face {
+                font-family: PixelOperator;
+                src: url(PixelOperator-Bold.woff);
+                font-weight: bold;
+            }
+            @font-face {
+                font-family: Upheaval;
+                src: url(upheavtt.woff);
+            }
+            body {
+                background-color: white;
+                font-family: PixelOperator, sans-serif;
+                font-size: 16px;
+                text-align: center;
+            }
+            h1, h2 {
+                font-family: Upheaval, sans-serif;
+                font-size: 20px;
+            }
+            h1 {
+                text-align: center;
+            }
+            hr {
+                display: block;
+                border: 0;
+                border-bottom: 1px dashed black;
+            }
+            #notfound {
+                display: block;
+                width: 128px;
+                height: 128px;
+                background: url("img/404.png");
+                background-position: 0 0;
+                background-size: 400% 100%;
+                overflow: hidden;
+                margin: 0 auto;
+            }
+		</style>
+    </head>
+    <body>
+        <h1>404 - Not Found</h1>
+        <hr>
+        <div id="notfound"></div>
+        <p>How did you get here? <a href="http://gatod.xyz">Go back</a></p>
+        <script>
+            $( document ).ready(function() {
+                $("#notfound").css({
+                    "background-position": (Math.floor(Math.random() * 4) * 100).toString() + "% 0"
+                });
+            });
+        </script>
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="//gatod.xyz/analytics/";
+            _paq.push(['setTrackerUrl', u+'html']);
+            _paq.push(['setSiteId', 1]);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><p><img src="//gatod.xyz/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    </body>
+</html>
