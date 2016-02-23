@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+Disallow: /deluge
+Disallow: /maria
+Disallow: /analytics
+Disallow: /socket.io
+Disallow: /ReCaptcha
+
+Sitemap: http://gatod.xyz/sitemap.xml

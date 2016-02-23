@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://gatod.xyz/</loc>
+  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://gatod.xyz/index.html</loc>
+  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://gatod.xyz/about.html</loc>
+  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://gatod.xyz/games.html</loc>
+  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://gatod.xyz/contact.php</loc>
+  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://gatod.xyz/elsewhere.html</loc>
+  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://gatod.xyz/oldnews.html</loc>
+  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
