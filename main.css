@@ -21,6 +21,11 @@ body,
 footer {
     background-color: #fff
 }
+.unavailable {
+    color: #888888 !important;
+    background-color: #444444 !important;
+    text-decoration: line-through !important;
+}
 .center,
 a#back,
 a#header,
