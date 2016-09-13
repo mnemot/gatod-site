@@ -227,13 +227,22 @@ iframe#tumblrask {
     background-size: 48px
 }
 .twitter {
-    background-image: url(img/icon-twitter.png)
+    background-image: url(img/icon-twitter.png);
 }
 .youtube {
-    background-image: url(img/icon-youtube.png)
+    background-image: url(img/icon-youtube.png);
 }
 .googleplus {
-    background-image: url(img/icon-googleplus.png)
+    background-image: url(img/icon-googleplus.png);
+}
+.yoyogames {
+    background-image: url(img/icon-yoyogames.png);
+}
+.gamejolt {
+    background-image: url(img/icon-gamejolt.png);
+}
+.itchio {
+    background-image: url(img/icon-itchio.png);
 }
 @media screen and (max-width: 800px) {
     body,
