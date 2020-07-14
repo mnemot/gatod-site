@@ -8,27 +8,32 @@
 
 <url>
   <loc>http://gatod.xyz/</loc>
-  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14T05:40:12+00:00</lastmod>
+  <changefreq>yearly</changefreq>
 </url>
 <url>
   <loc>http://gatod.xyz/index.html</loc>
-  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14T05:40:12+00:00</lastmod>
+  <changefreq>yearly</changefreq>
 </url>
 <url>
   <loc>http://gatod.xyz/about.html</loc>
-  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14T05:40:12+00:00</lastmod>
+  <changefreq>yearly</changefreq>
 </url>
 <url>
   <loc>http://gatod.xyz/games.html</loc>
-  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14T05:40:12+00:00</lastmod>
+  <changefreq>yearly</changefreq>
 </url>
 <url>
   <loc>http://gatod.xyz/contact.php</loc>
-  <lastmod>2016-02-22T05:40:12+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2020-07-14T05:40:12+00:00</lastmod>
+  <changefreq>never</changefreq>
+</url>
+<url>
+  <loc>http://gatod.xyz/contact.html</loc>
+  <lastmod>2020-07-14T05:40:12+00:00</lastmod>
+  <changefreq>never</changefreq>
 </url>
 </urlset>
